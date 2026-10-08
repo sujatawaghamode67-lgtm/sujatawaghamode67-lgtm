@@ -8,7 +8,7 @@
 ## 🛠️ Skills & Technologies
 
 - **Programming:** Python
-- **Data:** SQL, Excel, Pandas
+- **Data:** Excel, Pandas
 - **Hardware:** ESP32, Arduino, Sensors
 - **Electronics:** Embedded Systems, IoT
 - **Tools:** Jupyter Notebook, Excel, Pycharm,VS Code
