@@ -21,6 +21,9 @@ Wearable posture-monitoring system using ESP32, MPU6050 and sensor-based feedbac
 ### 🔔 Smart Doorbell
 Transistor-based electronic doorbell using a BC547 amplifier circuit and buzzer activation.
 
+### 📊 Student Performance Analytics 
+Student Performance Analytics is a beginner-friendly data analytics project built using Python, Pandas, and Matplotlib. It analyzes student study hours, attendance, and academic scores to explore factors associated with student performance.
+
 ## 📚 Currently Learning
 
 - Python
@@ -28,6 +31,7 @@ Transistor-based electronic doorbell using a BC547 amplifier circuit and buzzer 
 - Data Analysis
 - Git & GitHub
 - Problem Solving
+- C Programming
 
 ## 📫 Connect With Me
 
